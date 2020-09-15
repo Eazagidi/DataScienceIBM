@@ -7,3 +7,7 @@ DataScience_imposedMap
 - Second Half 
          Takes the crime in San Francisco counts the instance of crime by neighborhood. That data is then overlayed on a map with the 
          neighborhoods clearly colored so that when clicked or hovered over one can see the crime.
+         
+SQL in Notebooks
+
+- I took the data from crime and public schools and analyzed it using SQl syntax.
